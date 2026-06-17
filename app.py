@@ -5,7 +5,7 @@ import plotly.express as px
 
 # Configuración de la página
 st.set_page_config(
-    page_title="Mi App Streamlit",
+    page_title="Mi App Streamlit Y CON ACR",
     page_icon="🚀",
     layout="wide"
 )
